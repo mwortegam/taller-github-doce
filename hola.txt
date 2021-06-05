@@ -1,3 +1,8 @@
 
 linea 1
 cambios-uno-de nuevo
+conflictos r1
+conflictos r2
+conflictos r3
+conflictos r4
+
