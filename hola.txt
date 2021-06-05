@@ -1,10 +1,20 @@
 
 linea 1
 cambios-uno-de nuevo
+
 master 1
+conflictos r1
 master 2
+conflictos r2
 master 3
+conflictos r3
 master 4
+conflictos r4
 master 5
 master 6
+
+
+
+
+
 
